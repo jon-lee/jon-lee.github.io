@@ -8,7 +8,11 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
+<<<<<<< HEAD
 url:                http://jon-lee.github.io
+=======
+url:                http://www.jonlee.ca
+>>>>>>> 27e15dc8a748d51ae1c205164360dc6a8d2b50e4
 
 # Jekyll
 permalink:          /:title/
